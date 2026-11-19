@@ -62,8 +62,6 @@ with tab1:
     st.bar_chart(ratings)
 
 with tab2:
-    
-with tab2:
     st.header("Test a Customer Review in Real Time")
 
     # Example reviews
